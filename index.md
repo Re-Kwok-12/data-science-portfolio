@@ -51,7 +51,7 @@ Eastern had the highest proportion aged 65 and over, approximately **23.4%**, wh
 
 Each point represents one district. The dashed line shows the population-weighted share aged 65 and over across the 18 districts, approximately **19.58%**.
 
-The district-level Pearson correlation was **0.130**, indicating a weak positive linear association. A larger district population did not necessarily correspond to a higher older-population share.
+Across Hong Kong's 18 land districts in 2021, this descriptive comparison showed **no clear linear relationship** between population size and the proportion aged 65 and over (Pearson r = **0.130**). Population size alone provided little indication of a district's older-population share. This does not establish that the variables are unrelated.
 
 ### Limitations
 
